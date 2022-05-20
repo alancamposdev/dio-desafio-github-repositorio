@@ -13,8 +13,7 @@
  - Disponibilizar o link do repositório.
 
 ---
-![](/img/banner.png)
+![banner](/img/banner.png)
 
-  
 
  
